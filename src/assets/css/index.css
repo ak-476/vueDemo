@@ -1,0 +1,13 @@
+/* 公共部分*/
+*{-webkit-user-select:none;-webkit-tap-highlight-color:rgba(255,0,0,0);font-family: '微软雅黑'}
+html,body,h1,h2,h3,h4,p,dl,dt,dd,ul,ol,li,form,input,textarea,select,label,table,td,div,span,button,select,textarea,a{margin:0;padding:0;outline:0;font-size:14px;background:transparent;outline: none;}
+html,body{-webkit-text-size-adjust:none;-webkit-font-smoothing:antialiased;font-family:Verdana,Arial,Helvetica,microsoft yahei,'微软雅黑'}
+table{border-collapse:collapse;border-spacing:0;}
+ul,ol,li{list-style:none;}
+input,select{vertical-align:middle; font-family:\5fae\8f6f\96c5\9ed1; }
+select{-webkit-appearance:none;}
+textarea{resize:none;}
+img,a img{border:0;}
+a,a:hover{text-decoration:none; cursor:pointer; color:#333;}
+i,em{font-style:normal;font-weight:400;}
+a,img,input,textarea,button{-webkit-user-select:auto;-webkit-appearance: none;-webkit-tap-highlight-color:rgba(0,0,0,0);background: none;border:none;outline: none;}
